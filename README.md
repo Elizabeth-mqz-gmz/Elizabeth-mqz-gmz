@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-mqz-gmz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Elizabeth-mqz-gmz/Elizabeth-mqz-gmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

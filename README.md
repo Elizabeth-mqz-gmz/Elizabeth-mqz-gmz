@@ -1,7 +1,7 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 
 # ☀️ Hi, I'm Eli!
-👩🏻‍💻 Bioinformatics researcher currently working on DNA replication and transcription dynamics related to DNA damage and genome instability.<br/>
+👩🏽‍💻 Bioinformatics researcher currently working on DNA replication and transcription dynamics related to DNA damage and genome instability.<br/>
 👩🏻‍🎓 Studied Genomic Sciences at the National Autonomous University of Mexico (UNAM), Mexico.<br/>
 🎨 In my free time I like to do watercolor painting and reading.<br/>
 
